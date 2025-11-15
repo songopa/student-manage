@@ -1,0 +1,14 @@
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\bin\Debug\net10.0\mfumo.exe
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\bin\Debug\net10.0\mfumo.deps.json
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\bin\Debug\net10.0\mfumo.runtimeconfig.json
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\bin\Debug\net10.0\mfumo.dll
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\bin\Debug\net10.0\mfumo.pdb
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.AssemblyInfoInputs.cache
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.AssemblyInfo.cs
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.csproj.CoreCompileInputs.cache
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.dll
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\refint\mfumo.dll
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.pdb
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\mfumo.genruntimeconfig.cache
+D:\Xul\BYU\Software Development Bachelor\Term 6 2025\CSE310 Applied Programming\mfumo\obj\Debug\net10.0\ref\mfumo.dll
