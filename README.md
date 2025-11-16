@@ -4,7 +4,7 @@ This is a Student Management System built in C# to demonstrate core language fea
 
 The primary goal of this project is to capture the C# fundamentals, including object-oriented design patterns, CSV file handling, and menu-driven console applications. Through building this system, I've learned how to structure data models, and create user-friendly command-line interfaces.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/smqiHPvby8Q)
 
 # Development Environment
 
